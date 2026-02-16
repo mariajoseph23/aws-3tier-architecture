@@ -146,3 +146,9 @@ This design is intentionally “production-grade” and interview-defensible.
 ## Recruiter Keywords (for searchability)
 
 AWS VPC, Multi-AZ, Route 53, ACM, Application Load Balancer (ALB), Internal Load Balancer, Auto Scaling Group (ASG), Private Subnets, Public Subnets, NAT Gateway, Internet Gateway, Amazon RDS Multi-AZ, High Availability, Fault Tolerance, Secure Architecture, Tier Isolation, Controlled Egress.
+
+## Architecture Deep Dive
+
+A detailed architectural breakdown, including design decisions, trade-offs, and high-availability considerations, is available on Medium:
+
+👉 [Designing a Production-Grade 3-Tier AWS Architecture for High Availability and Scale](https://medium.com/@mjscharm/designing-a-production-grade-3-tier-aws-architecture-for-high-availability-and-scale-43985c0edb6e)
